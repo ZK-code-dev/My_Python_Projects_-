@@ -30,8 +30,9 @@ Another project from my **Certificate III in IT (Cyber pathway)** course.
 
 ## 💡 Learning & Inspiration
 
-- My beginner games were inspired by **[Mosh Hamedani’s YouTube channel](https://www.youtube.com/@programmingwithmosh)**. Following along and learning the basics is what I thought was most important.
+- My beginner games were inspired by **[Mosh Hamedani’s YouTube channel](https://www.youtube.com/@programmingwithmosh)**. Following along and learning the basics was key to building confidence.
 - The **Certificate III in IT (Cyber pathway)** course guided me through building more advanced tools like the password manager and port scanner.
+- I am also completing a **TryHackMe course** to enhance my practical cybersecurity skills and understanding of real-world security scenarios. 🛡️
 - I love learning by **creating projects** and experimenting with Python! 🚀✨
 
 ---
