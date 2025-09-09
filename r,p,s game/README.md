@@ -38,7 +38,7 @@ while True:
 ...
 """
 
-The first part of the code (all the orange comments when viewed in an editor/the commented out code) shows our first attempt at coding the game.
+The first part of the code (the commented out code line 1-38) shows our first attempt at coding the game.
 
 Mosh Hamedani advised that as beginners this is fine, but we could make the code simpler, shorter, and easier to maintain by breaking it into smaller parts (modularization).
 

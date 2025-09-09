@@ -1,4 +1,4 @@
-# the first comment (all the orange) is how we coded the game at first go,
+# the first comment (from line 1-38) is how we coded the game at first go,
 # but then Mosh advised us to do somehting called modularization,
 # meaning we should break the code into smaller parts,
 # so we did that and now we have a newer cleaner code below
