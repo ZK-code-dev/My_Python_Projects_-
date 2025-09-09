@@ -36,7 +36,7 @@ Input is cleaned using .strip().lower() to handle spaces or uppercase letters li
 
 Comments in the code explain important parts, like why the loop continues or how invalid input is handled. 📝
 
-Some comments in the code show earlier ideas or versions. These are there to explain the thought process and learning journey. You can remove them if you want a cleaner code version. 😎
+Some comments in the code show a short explanation of the game or just my notes while coding it. These are there to explain the thought process and learning journey. You can remove them if you want a cleaner code version. 😎
 
 🖥 Example Gameplay
 Roll the dice? (y/n): y
